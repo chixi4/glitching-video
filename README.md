@@ -20,4 +20,4 @@ ffmpeg 重编码              ← 解码（产生拖影）→ 编码（烘焙进
 ## 依赖
 
 Python 3 + ffmpeg
-# glitching-video
+
